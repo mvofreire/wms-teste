@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "@hbsis.uikit/react": "^0.26.19",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-onclickoutside": "^6.8.0",
